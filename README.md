@@ -35,7 +35,7 @@ Please check back here for materials for the 2021 Virtual CRNCH Summit! We will 
 |                                                |                                                              |
 | 4:00pm                                         | *Session 3, Chair, Rich Vuduc*                               |
 |                                                | **Jeffrey Young,** Senior Research Scientist, Director, The Rogues Gallery |
-|                                                | *“The Rogues Gallery Testbed – Highlights and NSF Upgrades”* [[Slides](https://github.com/gt-crnch/crnch-summit-2021/blob/main/presenter_slides/Thursday_01_28_21/105--Rogues-Gallery-Update-Jeff-Young-CRNCH-Summit-2021.pdf)][] |
+|                                                | *“The Rogues Gallery Testbed – Highlights and NSF Upgrades”* [Slides](https://github.com/gt-crnch/crnch-summit-2021/blob/main/presenter_slides/Thursday_01_28_21/105--Rogues-Gallery-Update-Jeff-Young-CRNCH-Summit-2021.pdf)][Talk](https://mediaspace.gatech.edu/media/Jeff%20Young%20-%20Rogues%20Gallery%20-%20CRNCH%20Summit%202021/1_lqlgr0jj) |
 |                                                |                                                              |
 | 4:20pm                                         | **Steve Reinhardt,** VP of Product Development, Quantum Computing Incorporated |
 |                                                | *“Delivering Superior Quantum Performance on NP-hard Graph Problems via Subject-Matters-* |
